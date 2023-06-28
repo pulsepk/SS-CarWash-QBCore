@@ -51,7 +51,7 @@ end)
 function WashMenu(Wash)
 	exports['qb-menu']:openMenu({
         {
-            header = 'QBCore Test Menu',
+            header = 'Car Wash Menu',
             icon = 'fa-solid fa-circle-check',
             isMenuHeader = true, 
         },
